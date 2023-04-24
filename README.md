@@ -1,3 +1,4 @@
+# A simple React App in Arabic for displaying movies and watching them using an online API
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
